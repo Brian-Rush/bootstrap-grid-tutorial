@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*:not(html):not(body) {
+  border: 1px dashed springgreen;
+}
+
+img {
+  width: 100%;
+}
+ .image-col {
+   padding: 0;
+ }
